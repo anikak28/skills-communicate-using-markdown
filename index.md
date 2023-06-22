@@ -9,7 +9,10 @@
 ```
 $ git init
 Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
+
 ```
+
+<span style="background-color: FF0000; color: black; padding: 5px 10px; border-radiys: 5px; display: inline-block">GHES</span> 
 
 - [ ] Turn on GitHub Pages
 - [ ] Outline my portfolio
